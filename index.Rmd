@@ -1,36 +1,43 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Jia Liu"
+image: "IMG_1566_2.png"
 links:
-  - label: Resume
+  - label: CV
     url: "https://linkedin.com/"
-  - label: Blog
+  - label: Github
     url: "https://medium.com/"
-  - label: SoundCloud
+  - label: Linkedin
     url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+I am a PhD student in Bioinformatics and Computational Biology program in Iowa State University. Research-wise, I am passionate about promoting sustainable agriculture from the soil microbiome perspective. In particular, I am interested in improving the detection of microbial functional genes that are involved in the
+important soil processes, such as nitrogen cycling. Previously, I developed MetaFunPrimer, a command
+line-based pipeline in Bash and Python to design primers for high-throughput qPCR. My common work involves analyzing
+sequencing data such as 16S rRNA sequencing, metagenome sequencing, and RNA sequencing, data
+analysis and visualization. Outside of my research, I’m interested in data science, programming, and
+learning new technologies.
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**Iowa State University** | Ames, IA
 
-M.B.A. | August 2014 - June 2015
+PhD in Bioinformatics and Computational Biology | Aug 2018 - Present
 
-**The Juilliard School** | New York, NY
+**Purdue University** | West Lafayette, IN
 
-B.F.A. in Music Performance | August 2005 - May 2009
+MS in Animal Sciences | August 2016 - Jul 2018
+
+**University of Florida** | Gainesville, FL
+
+Exchange student | August 2015 - May 2016
+
+**Huazhong Agricultural University** | Wuhan, China
+
+BS in Animal Sciences | September 2012 - Jun 2016
 
 ## Experience
 
