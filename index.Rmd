@@ -5,9 +5,10 @@ links:
   - label: CV
     url: "https://linkedin.com/"
   - label: Github
-    url: "https://medium.com/"
+    url: "https://github.com/jialiu232"
   - label: Linkedin
-    url: "https://soundcloud.com/"
+    url: "www.linkedin.com/in/jia-liu-6753a2137"
+"
 output:
   postcards::solana
 ---
