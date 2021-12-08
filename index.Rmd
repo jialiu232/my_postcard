@@ -7,7 +7,7 @@ links:
   - label: Github
     url: "https://github.com/jialiu232"
   - label: Linkedin
-    url: "www.linkedin.com/in/jia-liu-6753a2137"
+    url: "https://www.linkedin.com/in/jia-liu-6753a2137/"
 output:
   postcards::solana
 ---
